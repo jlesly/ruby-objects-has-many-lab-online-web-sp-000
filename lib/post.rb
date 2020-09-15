@@ -12,5 +12,7 @@ class Post
       nil
     end
   end
+def post_count
+end 
 
 end 
